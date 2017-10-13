@@ -1,2 +1,4 @@
 # hello-world
-first repo via the tutorial
+first repo
+Really just a collection of crap!
+I really need to understand structure.
